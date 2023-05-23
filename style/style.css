@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.home{
+    display: flex;
+    justify-content: center;
+}
+
+.navbar{
+    display: flex;
+    justify-content: center;
+}
+
+.especialista{
+    margin-left: 200px;
+    width: fit-content;
+}
+.navbar-secciones{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.especialista-info{
+    justify-content: center;
+    
+}
+.especialista-foto{
+    border-radius: 360px;
+}
